@@ -3,8 +3,8 @@
 A machine learning-based web application that evaluates credit applications and estimates default risk using logistic regression.
 
 This project simulates a real-world banking credit scoring system developed as part of a data analytics and risk modeling study.
-
----
+live demo: [
+](https://credit-risk-decision-app-88hb5aqmnhqvfahoku3rmh.streamlit.app)---
 
 ## Project Overview
 
