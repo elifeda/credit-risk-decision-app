@@ -31,19 +31,8 @@ The system is powered by a trained **Logistic Regression pipeline**.
 - Feature Engineering:
   - Loan-to-Income Ratio calculated dynamically inside the application
 ---
-## Model Performance
 
-The model was evaluated using classification metrics:
-
-- Accuracy: (write your value)
-- Precision: (write your value)
-- Recall: (write your value)
-- ROC-AUC: (write your value)
-
-The decision threshold (37%) was selected to balance credit approval rate and risk exposure.
-
----
-## 💼 Business Interpretation
+## Business Interpretation
 
 This system simulates a real-world banking credit scoring process.
 
